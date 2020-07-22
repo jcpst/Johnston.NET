@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=427c9bfc_002D2dae_002D4b6c_002D8fb6_002D2169d6ef9170/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="PitchArithmetic" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.PitchTests.PitchArithmetic&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c0a0dd0_002D58a8_002D4b87_002D883c_002Dc388a46f4c31/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="Session" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.PitchTests.Should_Keep_Ratio_Between_1_And_2&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.PitchTests.Should_Calc_Lattice&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.PitchTests.Should_Calc_Lattice&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0ec68f7_002D3549_002D4dae_002Dbd59_002D626ce01b507b/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="Should_Keep_Ratio_Between_1_And_2" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.IntervalTests.PitchArithmetic&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.IntervalTests.Should_Calc_Lattice&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.IntervalTests.RatioShouldAlwaysBeFlattened&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.IntervalTests.RecipShouldFlip&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.UtilTests.Should_Build_Scale&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.IntervalTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
