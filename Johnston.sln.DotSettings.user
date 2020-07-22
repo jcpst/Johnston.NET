@@ -23,5 +23,6 @@
     &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.IntervalTests.RecipShouldFlip&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.UtilTests.Should_Build_Scale&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.IntervalTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34DEF60A-389B-4124-B995-4F20CDF2C235::.NETCoreApp,Version=v3.1::Johnston.Tests.UtilTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
